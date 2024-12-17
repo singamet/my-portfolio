@@ -20,7 +20,7 @@ export default function Projects() {
       image: "../images/burger-fries-plate.jpg",
       title: "Food App",
       description:
-        "This Food Ordering App uses a React front end to provide a dynamic and responsive user interface. The back end is built with Node.jsand Express, ensuring efficient and scalable server-side operations. MongoDB is used to store all essential data, offering flexibility and performance. JWT (JSON Web Tokens) is utilized for secure user authentication. Important routes, such as cart, orders, and favorites, are protected and require proper authorization to access, ensuring data security and a personalized experience. This integration of cutting-edge technologies aims to deliver a reliable, secure, and user-friendly food ordering platform.",
+        "This Food Ordering App uses a React front end to provide a dynamic and responsive user interface. The back end is built with Node.jsand Express, ensuring efficient and scalable server-side operations. MongoDB is used to store all essential data, offering flexibility and performance. JWT (JSON Web Tokens) is utilized for secure user authentication. Important routes, such as cart, orders, and favorites, are protected, ensuring data security and a personalized experience.",
       link: "https://singametfoodapp.netlify.app/",
     },
   ];
